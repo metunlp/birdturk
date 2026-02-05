@@ -1,5 +1,7 @@
 # BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish
 
+[![arXiv](https://img.shields.io/badge/arXiv-2602.03633-b31b1b.svg)](https://arxiv.org/abs/2602.03633)
+
 <p align="center">
   <img src="images/birdturk.jpeg" alt="BIRDTurk" width="250">
 </p>
