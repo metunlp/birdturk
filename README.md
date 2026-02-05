@@ -1,6 +1,6 @@
 # BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish
 
-![BIRDTurk](birdturk.jpeg)
+![BIRDTurk](images/birdturk.jpeg)
 
 ## Overview
 
