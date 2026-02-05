@@ -1,8 +1,8 @@
 # BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish
 
-![BIRDTurk](images/birdturk.jpeg)
+<img src="images/birdturk.jpeg" width="250" align="left" style="margin-right:20px;">
 
-## Overview
+**Overview**
 
 **BIRDTurk** is a Turkish adaptation of the **BIRD (BigBench for Relational Databases)** Text-to-SQL benchmark.  
 The goal of this project is to evaluate and analyze **Text-to-SQL model performance in Turkish**, a morphologically rich and low-resource language, while preserving the full structural and logical complexity of the original BIRD dataset.
@@ -13,15 +13,7 @@ The final camera-ready version will be published in the official conference proc
 Paper (arXiv): https://arxiv.org/abs/2602.03633  
 Conference: **EACL 2026 – SIGTURK**
 
----
-
-## Publication Status
-
-- **Current version:** arXiv preprint
-- **Acceptance:** Accepted by **EACL 2026 SIGTURK**
-- **Next step:** Camera-ready version to appear in EACL 2026 proceedings
-
-Any future differences between this README and the published version will be limited to minor clarifications or formatting; the core methodology and results remain unchanged.
+<br clear="left">
 
 ---
 
@@ -166,10 +158,11 @@ It demonstrates that strong English Text-to-SQL performance does not translate t
 ## Citation
 
 ```bibtex
-@article{birdturk2026,
+@inproceedings{birdturk2026,
   title={BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish},
-  author={Aktaş, Burak and Baytekin, Mehmet Can and Köse, Süha Kağan and İlbilgi, Ömer and Yılmaz, Elif Özge and Toraman, Çağrı and Görür, Bilge Kaan},
-  journal={arXiv preprint arXiv:2602.03633},
-  note={Accepted to EACL 2026 SIGTURK},
+  author={Aktas, Burak and Baytekin, Mehmet Can and Kose, Suha Kagan and Ilbilgi, Omer and Yilmaz, Elif Ozge and Toraman, Cagri and Gorur, Bilge Kaan},
+  booktitle={Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL)},
+  note={Accepted to SIGTURK. arXiv:2602.03633},
   year={2026}
 }
+
