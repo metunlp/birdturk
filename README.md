@@ -1,6 +1,6 @@
 # BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish
 
-<img src="images/birdturk.jpeg" width="250" align="left" style="margin-right:20px;">
+<img src="images/birdturk.jpeg" width="280" align="left" style="margin-right:20px;">
 
 **Overview**
 
