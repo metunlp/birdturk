@@ -14,7 +14,7 @@ The goal of this project is to evaluate and analyze **Text-to-SQL model performa
 This repository documents the **arXiv version** of the paper, which has been **accepted to EACL 2026 (SIGTURK)**.  
 The final camera-ready version will be published in the official conference proceedings.
 
-Dataset available on Hugging Face: [Hugging Face Dataset Link](PUT_HF_DATASET_LINK_HERE)
+Dataset available on Hugging Face: [Hugging Face Dataset Link](https://huggingface.co/datasets/metunlp/birdturk)
 
 Paper (arXiv): https://arxiv.org/abs/2602.03633  
 Conference: **EACL 2026 – SIGTURK**
